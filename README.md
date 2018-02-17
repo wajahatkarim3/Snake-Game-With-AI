@@ -5,5 +5,12 @@ I created this project back in 2009 when I was a fresh in 2nd semester in gradua
 
 You can find the code in [SnakeGame.cpp](https://github.com/wajahatkarim3/SnakeGameWithAI/blob/master/SnakeGame.cpp) file. I developed in using Dev C++ compiler at that time.
 
+## Features
+* Single Player Game
+* Multi-player Game with Computer Snake (AI)
+* Load/Save Game in/from File
+* High Scores and Leaderboard
+
+
 ![](https://github.com/wajahatkarim3/SnakeGameWithAI/blob/master/snake1.jpg?raw=true)
 ![](https://github.com/wajahatkarim3/SnakeGameWithAI/blob/master/snake2.jpg?raw=true)
